@@ -1,8 +1,24 @@
-# React + Vite
+# Music Player App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic and responsive music player built with React, featuring a sleek interface, search functionality, and smooth audio playback. The app includes an audio player, sidebar, navigation bar, and preloader, offering a smooth user experience while browsing and playing music. 
 
-Currently, two official plugins are available:
+## Features:
+- **Music Playback**: Play, pause, and navigate through songs.
+- **Search**: Filter songs by name or artist.
+- **Preloader**: Display a preloader while the app is loading.
+- **Responsive Layout**: Fully responsive design with a sidebar, player, and controls.
+- **Audio Controls**: Use play/pause buttons to control music and display the current playing song.
+- **Music List**: Display filtered songs based on search query and play them.
+  
+## Technologies Used:
+- **React**: Used for building the user interface.
+- **React Router**: For routing between components.
+- **Framer Motion**: For smooth hover animations and transitions.
+- **React Icons**: For stylish icons like the music note.
+- **Tailwind CSS**: For styling and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run:
+1. Clone this repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to start the application in development mode.
+4. Open `http://localhost:3000` in your browser.
