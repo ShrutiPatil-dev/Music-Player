@@ -20,5 +20,5 @@ A dynamic and responsive music player built with React, featuring a sleek interf
 ## How to Run:
 1. Clone this repository.
 2. Run `npm install` to install dependencies.
-3. Run `npm start` to start the application in development mode.
-4. Open `http://localhost:3000` in your browser.
+3. Run `npm run dev` to start the application in development mode.
+4. Open `http://localhost:5173` in your browser.
